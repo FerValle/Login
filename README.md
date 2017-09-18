@@ -1,2 +1,2 @@
 # Login
-Ventana de Login. Curso Udemy - PHP y MySQL - Carlos Arturo
+Ventana de Login. Curso Udemy - PHP y MySQL - Carlos Arturo.
